@@ -1,0 +1,116 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "iPhone 10",
+      "description": "This is the best phone in the world",
+      "price": 1000,
+      "color": "#000",
+      "imageURL": "assets/images/iphone-x-pictures-45229.png"
+    },
+    {
+      "id": 2,
+      "name": "Samsung Galaxy S21",
+      "description": "Powerful Android phone with great features",
+      "price": 1200,
+      "color": "#3F51B5",
+      "imageURL": "assets/images/Galaxy.png"
+    },
+    {
+      "id": 3,
+      "name": "Google Pixel 5",
+      "description": "Pure Android experience with an excellent camera",
+      "price": 900,
+      "color": "#607D8B",
+      "imageURL": "assets/images/Google-Pixel-5.png"
+    },
+    {
+      "id": 4,
+      "name": "OnePlus 9 Pro",
+      "description": "Flagship killer with top-of-the-line specs",
+      "price": 1100,
+      "color": "#FF5722",
+      "imageURL": "assets/images/OnePlus 9 Pro.png"
+    },
+    {
+      "id": 5,
+      "name": "Xiaomi Mi 11",
+      "description": "Premium phone with powerful performance",
+      "price": 950,
+      "color": "#FF9800",
+      "imageURL": "assets/images/Xiaomi-Mi-11.png"
+    },
+    {
+      "id": 6,
+      "name": "Huawei P40 Pro",
+      "description": "High-end phone with a great camera system",
+      "price": 1000,
+      "color": "#009688",
+      "imageURL": "assets/images/Huawei-P40-Pro.png"
+    },
+    {
+      "id": 7,
+      "name": "Sony Xperia 1 III",
+      "description": "Premium phone with stunning 4K display",
+      "price": 1200,
+      "color": "#9C27B0",
+      "imageURL": "assets/images/Xperia.png"
+    },
+    {
+      "id": 8,
+      "name": "LG Velvet",
+      "description": "Sleek design with great multimedia features",
+      "price": 800,
+      "color": "#673AB7",
+      "imageURL": "assets/images/LG_Velvet_5G.png"
+    },
+    {
+      "id": 9,
+      "name": "Motorola Moto G Power",
+      "description": "Long-lasting battery life and affordable",
+      "price": 250,
+      "color": "#FFEB3B",
+      "imageURL": "assets/images/Motorola-Moto-G-Power.png"
+    },
+    {
+      "id": 10,
+      "name": "Nokia 8.3",
+      "description": "Solid phone with clean Android software",
+      "price": 600,
+      "color": "#F44336",
+      "imageURL": "assets/images/Nokia.png"
+    },
+    {
+      "id": 11,
+      "name": "Realme X7 Pro",
+      "description": "Affordable phone with powerful performance",
+      "price": 350,
+      "color": "#CDDC39",
+      "imageURL": "assets/images/Realme_X7_Price.png"
+    },
+    {
+      "id": 12,
+      "name": "Oppo Find X3 Pro",
+      "description": "Innovative camera system with vibrant display",
+      "price": 1300,
+      "color": "#FFC107",
+      "imageURL": "assets/images/Oppo Find X3 Pro.png"
+    },
+    {
+      "id": 13,
+      "name": "Vivo X60 Pro+",
+      "description": "Flagship phone with advanced photography features",
+      "price": 1100,
+      "color": "#795548",
+      "imageURL": "assets/images/Vivo-X60-Pro-Plus.png"
+    },
+    {
+      "id": 15,
+      "name": "ASUS ROG Phone 5",
+      "description": "Gaming phone with top-notch specifications",
+      "price": 1000,
+      "color": "#4CAF50",
+      "imageURL": "assets/images/ASUS ROG Phone 5.png"
+    }
+  ]
+}
